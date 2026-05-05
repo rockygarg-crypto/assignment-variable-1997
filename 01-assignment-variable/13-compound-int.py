@@ -5,5 +5,5 @@ print(f"principal : {principal}")
 print(f"rate : {rate}")
 print(f"time : {time}")
 CI =int(principal * (1 + rate / 100) ** time - principal)
-print(f"compound interest : {cI}")
+print(f"compound interest : {CI}")
 
